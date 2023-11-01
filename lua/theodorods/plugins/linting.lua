@@ -1,3 +1,6 @@
+return {}
+
+--[=====[
 return {
 	"mfussenegger/nvim-lint",
 	lazy = true,
@@ -28,3 +31,4 @@ return {
 		end, { desc = "Trigger linting for current file" })
 	end,
 }
+]=====]

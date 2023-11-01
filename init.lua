@@ -2,5 +2,5 @@
 require("theodorods.core")
 require("theodorods.lazy")
 
-vim.opt.number = false
+vim.opt.number = true
 vim.opt.relativenumber = true
